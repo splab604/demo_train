@@ -3,7 +3,7 @@
 * Demo our applications (for LAN)
     * e.g. speech recognition, speaker verification, event classification, emotion recognition
 * Requirements
-    * all phd students
+    * all splab memebers, master students finish before graduation
     * time response is not critical
     * easy to demo, better provide one click demo
 
