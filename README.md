@@ -35,6 +35,9 @@ source activate myenv
 # install jupyter
 pip install jupyter
 
+# install jupyter lab
+pip install jupyterlab
+
 # install ipykernel module
 pip install ipykernel
 
