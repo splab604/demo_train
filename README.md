@@ -19,6 +19,8 @@
 # LAN_IP: PORT map to a notebook-dir
 192.168.11.214:7771/lab :: /data/splab_demo/acoustic_scene_classification
 192.168.11.214:7772/lab :: /data/splab_demo/speech_enhancement
+192.168.11.213:7773/lab :: /data/splab_demo/sqy_acoustic_event_recoginition
+192.168.11.215:7774/lab :: /data/splab_demo/Automatic_Speech_Recognition
 ```
 * Audio will be uploaded to the following directory (using `jupyter lab`) 
 ```
